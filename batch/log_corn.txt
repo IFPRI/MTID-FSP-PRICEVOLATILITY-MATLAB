@@ -1,0 +1,422 @@
+inputfilename="corn07312014.txt"  
+inputfilename="corn07312014.txt"  
+inputfilename="corn07312014.txt"  
+Mon 08/04/2014 
+month=08  
+day=04  
+year=2014  
+inputfilename=corn08042014.txt 
+Tue 08/05/2014 
+month=08  
+day=05  
+year=2014  
+inputfilename=corn08042014.txt 
+Wed 08/06/2014 
+month=08  
+day=06  
+year=2014  
+inputfilename=corn08052014.txt 
+Thu 08/07/2014 
+month=08  
+day=07  
+year=2014  
+inputfilename=corn08062014.txt 
+Wed 08/20/2014 
+month=08  
+day=20  
+year=2014  
+inputfilename=corn08192014.txt 
+Wed 08/27/2014 
+month=08  
+day=27  
+year=2014  
+inputfilename=corn08262014.txt 
+Thu 08/28/2014 
+month=08  
+day=28  
+year=2014  
+inputfilename=corn08272014.txt 
+Thu 09/04/2014 
+month=09  
+day=04  
+year=2014  
+inputfilename=corn09032014.txt 
+Thu 09/04/2014 
+month=09  
+day=04  
+year=2014  
+inputfilename=corn09032014.txt 
+Thu 09/04/2014 
+month=09  
+day=04  
+year=2014  
+inputfilename=corn09032014.txt 
+Mon 10/06/2014 
+month=10  
+day=06  
+year=2014  
+inputfilename=corn10052014.txt 
+Tue 10/07/2014 
+month=10  
+day=07  
+year=2014  
+inputfilename=corn10062014.txt 
+Thu 10/09/2014 
+month=10  
+day=09  
+year=2014  
+inputfilename=corn10092014.txt 
+Thu 10/09/2014 
+month=10  
+day=09  
+year=2014  
+inputfilename=corn10092014.txt 
+Thu 10/09/2014 
+month=10  
+day=09  
+year=2014  
+inputfilename=corn10082014.txt 
+Fri 10/10/2014 
+month=10  
+day=10  
+year=2014  
+inputfilename=corn10092014.txt 
+Mon 10/27/2014 
+month=10  
+day=27  
+year=2014  
+inputfilename=corn10272014.txt 
+Tue 12/09/2014 
+month=12  
+day=09  
+year=2014  
+inputfilename=corn12082014.txt 
+Tue 02/10/2015 
+month=02  
+day=10  
+year=2015  
+inputfilename=corn02102015.txt 
+Wed 03/25/2015 
+month=03  
+day=25  
+year=2015  
+inputfilename=corn03242015.txt 
+Wed 03/25/2015 
+month=03  
+day=25  
+year=2015  
+inputfilename=corn03242015.txt 
+Wed 03/25/2015 
+month=03  
+day=25  
+year=2015  
+inputfilename=corn03242015.txt 
+Wed 03/25/2015 
+month=03  
+day=25  
+year=2015  
+inputfilename=corn03242015.txt 
+Wed 04/08/2015 
+month=04  
+day=08  
+year=2015  
+inputfilename=corn04072015.txt 
+Wed 04/08/2015 
+month=04  
+day=08  
+year=2015  
+inputfilename=corn04072015.txt 
+Wed 04/08/2015 
+month=04  
+day=08  
+year=2015  
+inputfilename=corn04072015.txt 
+Wed 04/08/2015 
+month=04  
+day=08  
+year=2015  
+inputfilename=corn04072015.txt 
+Wed 04/08/2015 
+month=04  
+day=08  
+year=2015  
+inputfilename=corn04072015.txt 
+Wed 04/08/2015 
+month=04  
+day=08  
+year=2015  
+inputfilename=corn04072015.txt 
+Sun 04/12/2015 
+month=04  
+day=12  
+year=2015  
+inputfilename=corn04112015.txt 
+Tue 09/29/2015 
+month=09  
+day=29  
+year=2015  
+inputfilename=corn09292015.txt 
+Tue 09/29/2015 
+month=09  
+day=29  
+year=2015  
+inputfilename=corn09282015.txt 
+Tue 09/29/2015 
+month=09  
+day=29  
+year=2015  
+inputfilename=corn09282015.txt 
+Tue 09/29/2015 
+month=09  
+day=29  
+year=2015  
+inputfilename=corn09282015.txt 
+Tue 09/29/2015 
+month=09  
+day=29  
+year=2015  
+inputfilename=corn09282015.txt 
+Tue 09/29/2015 
+month=09  
+day=29  
+year=2015  
+inputfilename=corn09282015.txt 
+Thu 04/14/2016 
+month=04  
+day=14  
+year=2016  
+inputfilename=corn04142016.txt 
+Mon 04/18/2016 
+month=04  
+day=18  
+year=2016  
+inputfilename=corn04182016.txt 
+Thu 04/21/2016 
+month=04  
+day=21  
+year=2016  
+inputfilename=corn04212016.txt 
+Fri 04/22/2016 
+month=04  
+day=22  
+year=2016  
+inputfilename=corn04222016.txt 
+Mon 04/25/2016 
+month=04  
+day=25  
+year=2016  
+inputfilename=corn04252016.txt 
+Wed 04/27/2016 
+month=04  
+day=27  
+year=2016  
+inputfilename=corn04272016.txt 
+Fri 04/29/2016 
+month=04  
+day=29  
+year=2016  
+inputfilename=corn04292016.txt 
+Mon 05/02/2016 
+month=05  
+day=02  
+year=2016  
+inputfilename=corn05022016.txt 
+Tue 05/03/2016 
+month=05  
+day=03  
+year=2016  
+inputfilename=corn05032016.txt 
+Wed 05/04/2016 
+month=05  
+day=04  
+year=2016  
+inputfilename=corn05042016.txt 
+Fri 05/06/2016 
+month=05  
+day=06  
+year=2016  
+inputfilename=corn05052016.txt 
+Fri 05/06/2016 
+month=05  
+day=06  
+year=2016  
+inputfilename=corn05052016.txt 
+Fri 07/21/2017 
+month=07  
+day=21  
+year=2017  
+inputfilename=corn07212017.txt 
+Mon 07/24/2017 
+month=07  
+day=24  
+year=2017  
+inputfilename=corn07242017.txt 
+Tue 07/25/2017 
+month=07  
+day=25  
+year=2017  
+inputfilename=corn07252017.txt 
+Thu 07/27/2017 
+month=07  
+day=27  
+year=2017  
+inputfilename=corn07272017.txt 
+Fri 07/28/2017 
+month=07  
+day=28  
+year=2017  
+inputfilename=corn07282017.txt 
+Fri 07/28/2017 
+month=07  
+day=28  
+year=2017  
+inputfilename=corn07282017.txt 
+Mon 07/31/2017 
+month=07  
+day=31  
+year=2017  
+inputfilename=corn07312017.txt 
+Mon 04/16/2018 
+month=04  
+day=16  
+year=2018  
+inputfilename=corn04162018.txt 
+Mon 07/16/2018 
+month=07  
+day=16  
+year=2018  
+inputfilename=corn07162018.txt 
+Wed 08/14/2019 
+month=08  
+day=14  
+year=2019  
+inputfilename=corn08142019.txt 
+Wed 08/14/2019 
+month=08  
+day=14  
+year=2019  
+inputfilename=corn08142019.txt 
+Wed 08/14/2019 
+month=08  
+day=14  
+year=2019  
+inputfilename=corn08142019.txt 
+Wed 08/14/2019 
+month=08  
+day=14  
+year=2019  
+inputfilename=corn08142019.txt 
+Wed 08/14/2019 
+month=08  
+day=14  
+year=2019  
+inputfilename=corn08142019.txt 
+Wed 08/14/2019 
+month=08  
+day=14  
+year=2019  
+inputfilename=corn08142019.txt 
+"output_corn_2019_08_14.txt"  
+Wed 08/14/2019 
+month=08  
+day=14  
+year=2019  
+inputfilename=corn08142019.txt 
+"output_corn_2019_08_14.txt"  
+Wed 08/14/2019 
+month=08  
+day=14  
+year=2019  
+inputfilename=corn08142019.txt 
+"output_corn_2019_08_14.txt"  
+Wed 08/14/2019 
+month=08  
+day=14  
+year=2019  
+inputfilename=corn08142019.txt 
+Thu 08/22/2019 
+month=08  
+day=22  
+year=2019  
+inputfilename=corn08222019.txt 
+Thu 08/22/2019 
+month=08  
+day=22  
+year=2019  
+inputfilename=corn08222019.txt 
+Thu 08/22/2019 
+month=08  
+day=22  
+year=2019  
+inputfilename=corn08222019.txt 
+Thu 08/22/2019 
+month=08  
+day=22  
+year=2019  
+inputfilename=corn08222019.txt 
+Thu 08/22/2019 
+month=08  
+day=22  
+year=2019  
+inputfilename=corn08222019.txt 
+Thu 08/22/2019 
+month=08  
+day=22  
+year=2019  
+inputfilename=corn08222019.txt 
+Thu 08/22/2019 
+month=08  
+day=22  
+year=2019  
+inputfilename=corn08222019.txt 
+Thu 08/22/2019 
+month=08  
+day=22  
+year=2019  
+inputfilename=corn08222019.txt 
+"output_corn_2019_08_22.txt"  
+Thu 08/22/2019 
+month=08  
+day=22  
+year=2019  
+inputfilename=corn08222019.txt 
+"output_corn_2019_08_22.txt"  
+done_in_2019_08_22  
+Thu 08/22/2019 
+month=08  
+day=22  
+year=2019  
+inputfilename=corn08222019.txt 
+"output_corn_2019_08_22.txt"  
+done_in_2019_08_22  
+Thu 08/22/2019 
+month=08  
+day=22  
+year=2019  
+inputfilename=corn08222019.txt 
+"output_corn_2019_08_22.txt"  
+done_in_2019_08_22  
+Thu 08/22/2019 
+month=08  
+day=22  
+year=2019  
+inputfilename=corn08222019.txt 
+"output_corn_2019_08_22.txt"  
+done_in_2019_08_22  
+done_in_2019_08_22  
+done_in_2019_08_23  
+done_in_2019_08_26  
+done_in_2019_08_27  
+Wed 08/28/2019 
+month=08  
+day=28  
+year=2019  
+inputfilename=corn08282019.txt 
+"output_corn_2019_08_28.txt"  
+done_in_2019_08_28  
+done_in_2019_08_28  
+done_in_2019_08_29  
+done_in_2019_08_30  
+done_in_2019_08_30  
+done_in_2019_09_02  
+done_in_2019_09_03  
